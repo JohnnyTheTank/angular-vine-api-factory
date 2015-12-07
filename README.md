@@ -2,6 +2,9 @@
 
 Author: Jonathan Hornung ([JohnnyTheTank](https://github.com/JohnnyTheTank))
 
+# NOTE
+This plugin use an unofficial Vine REST API. Maybe you will get problems with CORS
+
 ## Usage
 
 1. Install via [bower](http://bower.io/) :
@@ -16,7 +19,6 @@ Author: Jonathan Hornung ([JohnnyTheTank](https://github.com/JohnnyTheTank))
     ```
 
 4. Use the factory `vineFactory`.
-
 
 ### factory methods
 
