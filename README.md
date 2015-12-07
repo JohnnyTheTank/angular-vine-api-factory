@@ -3,7 +3,7 @@
 Author: Jonathan Hornung ([JohnnyTheTank](https://github.com/JohnnyTheTank))
 
 # NOTE
-This plugin use an unofficial Vine REST API. Maybe you will get problems with CORS
+This factory use an unofficial Vine REST API. Maybe you will get problems with CORS
 
 ## Usage
 
