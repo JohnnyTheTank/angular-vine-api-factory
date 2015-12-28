@@ -3,7 +3,7 @@
 Author: Jonathan Hornung ([JohnnyTheTank](https://github.com/JohnnyTheTank))
 
 # NOTE
-This factory use an unofficial Vine REST API. Maybe you will get problems with CORS
+:warning: This factory use an unofficial Vine REST API. Maybe you will get problems with CORS
 
 ## Usage
 
@@ -18,7 +18,7 @@ This factory use an unofficial Vine REST API. Maybe you will get problems with C
     <script src="bower_components/angular-vine-api-factory/src/angular-vine-api-factory.js"></script>
     ```
 
-4. Use the factory `vineFactory`.
+4. Use the factory `vineFactory`
 
 ### factory methods
 
