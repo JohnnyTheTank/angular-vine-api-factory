@@ -15,7 +15,7 @@ Author: Jonathan Hornung ([JohnnyTheTank](https://github.com/JohnnyTheTank))
 
     ```html
     <script src="bower_components/angular/angular.js"></script>
-    <script src="bower_components/angular-vine-api-factory/src/angular-vine-api-factory.js"></script>
+    <script src="bower_components/angular-vine-api-factory/dist/angular-vine-api-factory.js"></script>
     ```
 
 4. Use the factory `vineFactory`
